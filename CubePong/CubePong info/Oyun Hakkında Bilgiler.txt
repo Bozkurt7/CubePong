@@ -1,0 +1,47 @@
+Oyun Hakkindaki Bilgiler
+ 
+yapımcısı: İsmail Burak Özçiftçi 
+
+başlangıç tarihi: 10/12/2022
+bitiş tarihi: 19/02/2023
+
+Kuralları:
+oyuncular ile gelen topa değmeli ve bir sonraki oyuncuda aynı şekilde uygulamalıdır.
+eğer değemezseniz topunuz ilerler ve diğer oyuncuya +1 puan sağlar.
+
+
+Nasıl oyananır?
+
+oyuncu1:
+"w" ile y kordinatında 20 piksel ilerler
+"s" ile -y kordinatında 20 piksel ilerler
+
+oyuncu2:
+"yukarı yön tuşu" ile y kordinatında 20 piksel ilerler
+"aşşağı yön tuşu" ile -y kordinatında 20 piksel ilerler
+
+
+Nasıl yaptım?
+
+1- ilk olarak koduma "turtle " kütüphanesini eklemekle başladım      
+
+2-Sonra ekranın giriş ekranını kodladım                     
+
+3-Sonra oyunun oynandığı haritayı ve karakterlerin nerede duracağını kodladım      
+
+4-Topun haraketlerini kodladıktan sonra oyuncuların puanlarının bulunduğu kısmı kodlayarak devam ettim  
+
+5-Karakterlerin haraketlerinin kodladım                    
+
+6-Ekranın yenilenmesini sağladıktan sonra oyuncuların ekran dışına çıkmasını engellemek için kod yazdım   
+
+7-Topun üst ve alt bariyerlere gelince sekmesin sağladım   
+                     
+8-Eğer oyuncular topu engellyemezse karşı oyuncuya puan eklemesini yazdım
+
+
+
+
+
+
+İsmail Burak Özçiftçi 221099 9/C

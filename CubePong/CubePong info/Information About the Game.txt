@@ -1,0 +1,36 @@
+Information About the Game
+ 
+
+Rules:
+must touch the ball that comes with the players and do the same for the next player.
+if you don't touch it, your ball moves forward and gives +1 point to the other player.
+
+
+How is it played:
+
+player1:
+Moves 20 pixels in y coordinate with w
+Advances 20 pixels in the -y coordinate with s
+
+player2:
+Moves 20 pixels in y coordinate with up arrow key
+Moves 20 pixels in -y coordinate with down arrow key
+
+
+How did I do it:
+
+1- first I started by adding the turtle library to my code
+
+2-Then I coded the login screen of the screen
+
+3-Then I coded the map where the game is played and where the characters will stand.
+
+4-After coding the ball's movements, I continued by coding the part where the players' scores are located.
+
+5-I coded the movements of the characters
+
+6-I wrote a code to prevent players from leaving the screen after I had the screen refreshed.
+
+7-I let the ball bounce when it comes to the upper and lower barriers
+                     
+8- If the players cannot block the ball, I wrote the counter player to add points
